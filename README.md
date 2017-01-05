@@ -1,1 +1,1 @@
-# slider-jQuery
+JQuery
