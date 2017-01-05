@@ -1,0 +1,22 @@
+#slider
+{
+    overflow: hidden;
+    width: 430px;
+    height: 356px;
+    margin: 0 auto;
+}
+
+#img
+{
+    width: 1300px;
+    height: 356px;
+    display: inline-block;
+    position: relative;
+}
+
+img 
+{
+    width: 430px;
+    height: 356px;
+    margin: 0 auto;
+}
