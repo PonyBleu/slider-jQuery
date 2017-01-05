@@ -6,17 +6,16 @@
     margin: 0 auto;
 }
 
-#img
+#slider ul
 {
-    width: 1300px;
+    width: 300%;
     height: 356px;
     display: inline-block;
     position: relative;
+    list-style: none;
 }
 
-img 
+#slider li
 {
-    width: 430px;
-    height: 356px;
-    margin: 0 auto;
+    float: left;
 }
