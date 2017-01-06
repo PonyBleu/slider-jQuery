@@ -25,3 +25,25 @@ img
     width: 430px;
     height: 356px;
 }
+
+button
+{
+    background-color: #000001;
+    color: #fff;
+    border: none;
+    opacity: 0.5;
+}
+
+.next
+{
+    float: left;
+    margin-left: 38%;
+    margin-top: 2%;
+}
+
+.back
+{
+    float: right;
+    margin-top: 2%;
+    margin-right: 37%;
+}
